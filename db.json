@@ -1,0 +1,42 @@
+{
+  "bookings": [
+    {
+      "id": "8b04",
+      "name": "Hima",
+      "email": "jk12@gamil.com",
+      "category": "Design & UI/UX",
+      "date": "2025-05-21",
+      "notes": "thank you"
+    },
+    {
+      "id": "95c3",
+      "name": "Jatan",
+      "email": "jat@gamil.com",
+      "category": "Data Science",
+      "date": "2024-11-06",
+      "notes": "jake"
+    },
+    {
+      "id": "adad",
+      "name": "aman ",
+      "email": "ama@gamil.com",
+      "category": "Marketing",
+      "date": "2025-05-05",
+      "notes": "Himasnhu"
+    }
+  ],
+  "users": [
+    {
+      "id": "c3f6",
+      "name": "Himanshu raj",
+      "email": "raj12@gamil.com",
+      "password": "R@12"
+    },
+    {
+      "id": "9e8f",
+      "name": "HMS",
+      "email": "HM@gamil.com",
+      "password": "t@12"
+    }
+  ]
+}
