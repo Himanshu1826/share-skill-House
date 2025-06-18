@@ -9,7 +9,7 @@ import Register from "../Auth/Register";
 
 export const Routing = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/share-skill-House">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/dashboard" element={<Dashboard />} />
